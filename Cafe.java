@@ -306,7 +306,7 @@ public class Cafe
                    t++;
                    price += 25;
                }
-            choice[x][1] = Integer.toString(50*s1 + price) + ".00 ";
+            choice[x][1] = Integer.toString(50 + price) + ".00 ";
             
             switch(t)
             {
