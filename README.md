@@ -4,7 +4,7 @@ Welcome to the Café Ordering System project!
 This project was developed by Cherish Vasant as an 11th-grade school project. 
 The project is written in Java and aims to provide a simple command-line interface for ordering beverages and food items from a café.
 
-**Features: **
+#### Features: 
 
 _User Registration:_ Users can enter their name and other details to access the ordering system.
 
