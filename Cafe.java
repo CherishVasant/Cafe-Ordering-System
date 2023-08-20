@@ -256,7 +256,7 @@ public class Cafe
         int s1 = sc.nextInt();
         String Q = Integer.toString(s1);
         choice[x][2] = Q;
-        String scoop = "";;
+        String scoop = "";
         if(s1 >= 2)
         scoop = "scoops";
         else if(s1 == 1)
@@ -306,7 +306,7 @@ public class Cafe
                    t++;
                    price += 25;
                }
-            choice[x][1] = Integer.toString(50 + price) + ".00 ";
+            choice[x][1] = Integer.toString(50*s1 + price) + ".00 ";
             
             switch(t)
             {
