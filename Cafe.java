@@ -122,10 +122,10 @@ public class Cafe
    String timeSlot[] = {"8 a.m. - 9 a.m.", "9 a.m. - 10 a.m.", "10 a.m. - 11 a.m.", "11 a.m. - 12 p.m.",
    "3 p.m. - 4 p.m.", "4 p.m. - 5 p.m.", "5 p.m. - 6 p.m.", "6 p.m. - 7 p.m.", "7 p.m. - 8 p.m." };
    
-   int totalBill = 0; //Stores total amount of all ordered items
-   static int n; //Stores the category number
+   int totalBill = 0; //total amount of all ordered items
+   static int n; //the category number
    int x = 0;
-   int a, b; //Stores array index of items[]
+   int a, b; //stores array index of items[]
    int totalPrice; //Stores total amount for each item (item x quantity)
    String name;
    String mobile;
